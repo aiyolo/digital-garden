@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/obsidian/","title":"Obsidian 发布笔记"}
+{"dg-publish":true,"permalink":"/pages/obsidian/","title":"Obsidian 发布笔记","tags":["gardenEntry"]}
 ---
 
 
