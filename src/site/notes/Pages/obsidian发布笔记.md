@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/obsidian/","title":"Obsidian 发布笔记"}
+{"aliases":null,"tags":null,"source":null,"created":"2023-01-14 14:43:21","updated":"2023-01-14 14:49:25","title":"Obsidian 发布笔记","dg-publish":true,"permalink":"/Pages/obsidian发布笔记/","dgPassFrontmatter":true}
 ---
 
 
