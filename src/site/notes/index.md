@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","tags":["gardenEntry"]}
+{"aliases":null,"tags":["gardenEntry"],"source":null,"created":"2023-01-14 18:31:30","updated":"2023-01-14 18:33:20","title":"index","dg-publish":true,"dg-home":true,"permalink":"/index/","dgPassFrontmatter":true}
 ---
 
 
 # Index
 
 ## Welcome to My Digital Garden
-
-- [[Pages/obsidian发布笔记\|obsidian发布笔记]]
