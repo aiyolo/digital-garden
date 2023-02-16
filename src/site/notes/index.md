@@ -1,15 +1,20 @@
 ---
-{"aliases":null,"tags":[null,"gardenEntry","gardenEntry","gardenEntry"],"source":null,"created":"2023-01-14 18:31:30","updated":"2023-01-22 19:15:12","title":"Index","dg-publish":true,"dg-home":true,"permalink":"/index/","dgPassFrontmatter":true}
+{"uid":null,"aliases":null,"tags":[null,"gardenEntry","gardenEntry","gardenEntry"],"source":null,"created":"2023-01-14 18:31:30","updated":"2023-02-16 15:26:53","title":"Index","dg-publish":true,"dg-home":true,"permalink":"/index/","dgPassFrontmatter":true}
 ---
 
 
 # Index
 
-## Welcome to My Digital Garden
-
 ## 更新日志
 
-[[Pages/面试题 17.16. 按摩师 - 力扣（LeetCode）\|Pages/面试题 17.16. 按摩师 - 力扣（LeetCode）]]
+- [[Leetcode/面试题 17.16. 按摩师 - 力扣（LeetCode）\|面试题 17.16. 按摩师 - 力扣（LeetCode）]]
+- [[Pages/怎么让自己的博客被google检索到\|怎么让自己的博客被google检索到]]
+- [[Pages/obsidian发布笔记\|obsidian发布笔记]]
+- [[Pages/1129. 颜色交替的最短路径 - 力扣（LeetCode）\|1129. 颜色交替的最短路径 - 力扣（LeetCode）]]
+- [[index\|index]]
+
+
+[[Pages/LeetCode题目列表\|LeetCode题目列表]]
 
 - 2023-01-14
 	- 建站
