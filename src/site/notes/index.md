@@ -14,7 +14,5 @@
 - [[index\|index]]
 
 
-[[Pages/LeetCode题目列表\|LeetCode题目列表]]
-
 - 2023-01-14
 	- 建站
