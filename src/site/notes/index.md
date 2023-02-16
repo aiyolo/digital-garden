@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"tags":[null,"gardenEntry","gardenEntry","gardenEntry"],"source":null,"created":"2023-01-14 18:31:30","updated":"2023-02-16 15:26:53","title":"Index","dg-publish":true,"dg-home":true,"permalink":"/index/","dgPassFrontmatter":true}
+{"uid":null,"aliases":null,"tags":[null,"gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"source":null,"created":"2023-01-14 18:31:30","updated":"2023-02-16 15:26:53","title":"Index","dg-publish":true,"dg-home":true,"permalink":"/index/","dgPassFrontmatter":true}
 ---
 
 
