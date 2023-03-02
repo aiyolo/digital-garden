@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"tags":[null],"source":null,"created":"2023-01-13 20:06:50","updated":"2023-03-02 11:01:08","title":"怎么让自己的博客被 Google 检索到","dg-publish":true,"permalink":"/Pages/怎么让自己的博客被google检索到/","dgPassFrontmatter":true,"noteIcon":""}
+{"uid":null,"aliases":null,"tags":["obsidian"],"source":null,"created":"2023-01-13 20:06:50","updated":"2023-03-02 12:10:19","title":"怎么让自己的博客被 Google 检索到","dg-publish":true,"permalink":"/Pages/怎么让自己的博客被google检索到/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
