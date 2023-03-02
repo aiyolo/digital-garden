@@ -15,7 +15,6 @@
 
 简单三步 
 ![](https://i.imgur.com/1wpKh3k.png)
-![](https://i.imgur.com/1wpKh3k.png)
 
 ## 使用方法
 
