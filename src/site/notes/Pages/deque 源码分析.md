@@ -21,12 +21,12 @@
 - `first` 指向当前缓冲区的头部
 - `last` 指向当前缓冲区的尾部
 - `node` 指向 `map` 中的节点，该节点指向缓冲区  
-![../Assets/Pasted image 20221023160700.png](/img/user/Assets/Pasted%20image%2020221023160700.png)  
+![Pasted image 20221023160700](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303031130064.png)  
 
 `deque` 在头部尾部添加元素，如果缓冲区不足，那么要分配新的缓冲区
 
-![../Assets/Pasted image 20221023162229.png](/img/user/Assets/Pasted%20image%2020221023162229.png)  
-![../Assets/Pasted image 20221023162236.png](/img/user/Assets/Pasted%20image%2020221023162236.png)
+![Pasted image 20221023162229](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303031130065.png)  
+![Pasted image 20221023162236](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303031130066.png)
 
 其对应的重要源码部分见下面的代码注释。
 
