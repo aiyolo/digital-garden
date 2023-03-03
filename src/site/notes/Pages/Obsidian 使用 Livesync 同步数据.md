@@ -191,22 +191,22 @@ flyclt open
 ### 1.2 桌面端配置
 
 首先下载在 obsidian 插件商店搜索 livesync 插件。第一次配置时，我们在 `setup wizard` 中直接点击下面选项即可  
-![](https://i.imgur.com/Jbp2l0y.png)  
+![](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303031135209.png)  
 然后在 `remote database configuration` 中，依次填写服务端的配置信息，database 可以随便取个名字，它会自动在云端创建  
-![](https://i.imgur.com/M99yJxA.png)
+![](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303031135210.png)
 
 填写完后，点击 test 不出意外会显示 `connected to obsidian`，点击 check 之后，出现的 `?` 后点击 `fix` 直到全部变成对钩
 
-![](https://i.imgur.com/oMv4cbS.png)
+![](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303031135211.png)
 
 然后开启在编辑器内显示同步进度（`show status inside editors`），这样做方便在手机端观察同步进度  
-![](https://i.imgur.com/d040FZl.png)  
+![](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303031135212.png)  
 最后一步，点击 `live sync`  
-![](https://i.imgur.com/jX8fyFW.png)
+![](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303031135213.png)
 
 不出意外的话，状态栏的同步进度条开始动了, 点击左侧的按钮可以看到同步状态，像我这样配置日志里不会显示请求连接失败，否则的话可能会卡同步了
 
-![](https://i.imgur.com/FULlLyM.png)
+![](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303031135214.png)
 
 ### 1.3 手机端配置
 
@@ -218,7 +218,7 @@ flyclt open
 
 此时返回主界面，应该可以看到同步进度了  
 ![]()  
-![](https://i.imgur.com/rfSO3sZ.png)
+![](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303031135215.png)
 
 至此整个过程完成。
 
