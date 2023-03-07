@@ -10,9 +10,9 @@
 配置完成之后，它有以下几点比较吸引我。
 
 - 支持语法提示，错误提示  
-![](https://i.imgur.com/7XtgFDR.png)
+![](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303071628806.png)
 - 可以跳转到定义，包括库文件  
-![](https://i.imgur.com/UrB6DFh.png)
+![](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303071628807.png)
 
 现将折腾经历记录如下。
 
