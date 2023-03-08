@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"tags":["leetcode,c++"],"source":null,"created":"2022-09-29 20:30:05","updated":"2023-03-02 12:33:50","title":"Leetcode 本地调试环境搭建（C++语言）","dg-publish":true,"permalink":"/Leetcode/Leetcode 本地调试环境搭建（C++语言）/","dgPassFrontmatter":true,"noteIcon":""}
+{"uid":null,"aliases":null,"tags":["leetcode,cpp"],"source":null,"created":"2022-09-29 20:30:05","updated":"2023-03-02 12:33:50","title":"Leetcode 本地调试环境搭建（C++语言）","dg-publish":true,"permalink":"/Leetcode/Leetcode 本地调试环境搭建（C++语言）/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
