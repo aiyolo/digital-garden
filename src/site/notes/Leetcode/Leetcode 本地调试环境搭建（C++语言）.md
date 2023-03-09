@@ -47,3 +47,7 @@
 - `vector<string>`
 - `ListNode*`
 - `TreeNode*`
+
+## 设计难度
+
+[[Leetcode/leetcode-debug 中重要模块的设计\|leetcode-debug 中重要模块的设计]]
