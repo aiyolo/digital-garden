@@ -1,15 +1,16 @@
 ---
-{"aliases":null,"tags":null,"source":null,"created":"2023-03-08 16:15:17","updated":"2023-03-08 16:15:17","uid":null,"title":"vcpkg 安装使用","dg-publish":true,"permalink":"/Pages/vcpkg 安装使用/","dgPassFrontmatter":true,"noteIcon":""}
+{"aliases":null,"tags":["cmake"],"source":null,"created":"2023-03-08 16:15:17","updated":"2023-03-09 11:45:34","uid":null,"title":"vcpkg 安装使用","dg-publish":true,"permalink":"/Pages/vcpkg 安装使用/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
-# vcpkg 安装使用
+# Vcpkg 安装使用
 
-vcpkg 是一款免费的 C/C++ 包管理器，可以用来获取和安装 C/C++依赖包
+vcpkg 是一款免费的 C/C++ 包管理器，可以用来获取和安装 C/C++ 依赖包
 
 ## 安装 vcpkg
 
 [Get started with vcpkg](https://vcpkg.io/en/getting-started.html)
+
 ```
 git clone https://github.com/Microsoft/vcpkg.git
 ./vcpkg/bootstrap-vcpkg.sh
@@ -22,11 +23,13 @@ vcpkg install [packages to install]
 ```
 
 在 Cmake 中使用 vcpkg
+
 ```
 cmake -B [build directory] -S . -DCMAKE_TOOLCHAIN_FILE=[path to vcpkg]/scripts/buildsystems/vcpkg.cmake
 ```
 
 然后使用一下命令编译
+
 ```
 cmake --build [build directory]
 ```
@@ -34,6 +37,7 @@ cmake --build [build directory]
 ## 示例
 
 在项目中使用 `sqlite3` 库
+
 ```
 ❯ ./vcpkg install sqlite3
 Computing installation plan...
@@ -53,6 +57,7 @@ sqlite3 provides CMake targets:
 最后几行显示了如何在项目中引用 sqlite 库
 
 下面的 main.cpp 会输出 sqlite 的版本号
+
 ```
 // main.cpp
 #include <sqlite3.h>
@@ -66,6 +71,7 @@ int main()
 ```
 
 在 CMakeLists.txt 写入一下内容
+
 ```
 # CMakeLists.txt
 cmake_minimum_required(VERSION 3.0)
@@ -88,5 +94,11 @@ target_link_libraries(main PRIVATE unofficial::sqlite3::sqlite3)
 10144  ./main
 ```
 
+## 在 vscode 中使用 vcpkg
+
+首先安装 cmaketools 插件，然后设置 vcpkg 为 cmake 的工具链文件即可  
+![image.png](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303091144314.png)
+
 ## References
+
 - [Getting Started with Classic mode | Microsoft Learn](https://learn.microsoft.com/zh-cn/vcpkg/examples/installing-and-using-packages)
