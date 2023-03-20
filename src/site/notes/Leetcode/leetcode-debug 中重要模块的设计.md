@@ -60,6 +60,33 @@ struct MemFunction:public MemFunctionBase<T>{
 
 ```
 
+## 出现过的 bug 
+
+该处出现内存泄漏
+```cpp
+template <typename T> struct MemberFunctionBase {
+  virtual void operator()(T *obj, std::vector<std::string> &strArg) {
+  } // 需要虚函数调用子类函数
+  // virtual ~MemberFunctionBase(){}; //3.
+};
+std::unordered_map<std::string, MemberFunctionBase<T>*> funcMap; //2.
+
+template <typename F> void registerMemberFunction(std::string s, F &&func) {
+    // 把它们先上行转化，存入到funcmap里
+    // 在调用的时候，通过调用父类的虚函数operator()()方法，来调用到子类的成员函数
+    auto pFuncBase = static_cast<MemberFunctionBase<T> *>(new MemberFunction<T, F>(std::forward<F>(func))); // 1
+    funcMap.emplace(s, pFuncBase);
+  }
+```
+原因是 1 处申请的内存，没有释放，将子类指针上行转换父类指针后，删除父类指针，由于父类没有实现虚析构函数，子类空间不会删除
+
+修改
+在父类添加虚析构函数，使用智能指针
+```
+virtual ~MemberFunctionBase(){}; //3.
+std::unordered_map<std::string, std::shared_ptr<MemberFunctionBase<T>>> funcMap; //2
+```
+
 ## 草稿
 
 ```cpp
