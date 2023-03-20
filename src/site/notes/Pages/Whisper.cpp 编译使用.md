@@ -5,7 +5,7 @@
 
 # Whisper.cpp 编译使用
 
-`whisper.cpp` 是一个牛人 ggerganov 对 openai 的 `whisper` 语音识别模型用 C++ 重新实现的项目，开源在 github 上，具有轻量、性能高，实用性强等特点。这篇文章主要记录在 windows 平台，如何使用该模型在本地端进行语音识别。
+`whisper.cpp` 是牛人 ggerganov 对 openai 的 `whisper` 语音识别模型用 C++ 重新实现的项目，开源在 github 上，具有轻量、性能高，实用性强等特点。这篇文章主要记录在 windows 平台，如何使用该模型在本地端进行语音识别。
 
 ## 下载
 
