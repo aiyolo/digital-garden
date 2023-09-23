@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":[null],"source":null,"created":"2020-11-28 20:14:00","updated":"2023-03-07 15:54:41","uid":null,"title":"PyTorch 打印模型的输入输出","dg-publish":true,"permalink":"/Pages/PyTorch打印模型的输入输出/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/py-torch/","title":"PyTorch 打印模型的输入输出","tags":[null]}
 ---
 
 
