@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"created":"2022-06-09 11:56:00","updated":"2023-03-09 11:24:23","tags":["leetcode","连续序列"],"source":"https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/","title":"剑指 Offer 57 - II. 和为 s 的连续正数序列 - 力扣（LeetCode）","dg-publish":true,"permalink":"/Pages/剑指 Offer 57 - II. 和为s的连续正数序列 - 力扣（LeetCode）/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/offer-57-ii-s-leet-code/","title":"剑指 Offer 57 - II. 和为 s 的连续正数序列 - 力扣（LeetCode）","tags":["leetcode","连续序列"]}
 ---
 
 
