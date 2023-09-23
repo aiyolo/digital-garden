@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["deep_learning"],"source":null,"uid":null,"title":"Colab 使用教程","updated":"2023-03-09 17:24:08","created":"2020-05-13 13:24:46","author":"aiyolo","dg-publish":true,"permalink":"/Pages/Colab 使用教程/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/colab/","title":"Colab 使用教程","tags":["deep_learning"]}
 ---
 
 
