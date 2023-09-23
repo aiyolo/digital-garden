@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"tags":["cpp/syntax"],"source":null,"created":"2022-11-30 18:06:30","updated":"2023-03-02 12:30:23","title":"adopt_lock 和 defer_lock 的区别","dg-publish":true,"permalink":"/Pages/adopt_lock 和 defer_lock 的区别/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/adopt-lock-defer-lock/","title":"adopt_lock 和 defer_lock 的区别","tags":["cpp/syntax"]}
 ---
 
 
