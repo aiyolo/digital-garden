@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"source":null,"created":"2020-06-19 22:39:00","updated":"2023-03-07 15:49:46","uid":null,"title":"将带有 bib 参考文献的 tex 文档转化成 docx 格式文件","dg-publish":true,"permalink":"/Pages/将带有 bib 参考文献的 tex 文档转化成 docx 格式文件/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/bib-tex-docx/","title":"将带有 bib 参考文献的 tex 文档转化成 docx 格式文件"}
 ---
 
 
