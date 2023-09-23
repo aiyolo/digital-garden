@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["物理"],"source":null,"created":"2018-03-03 16:30:00","updated":"2023-03-07 16:16:12","uid":null,"title":"为什么物理实验 B 类误差均匀分布时 sqrt(3)","dg-publish":true,"permalink":"/Pages/为什么物理实验B类误差均匀分布时sqrt(3)/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/b-sqrt-3/","title":"为什么物理实验 B 类误差均匀分布时 sqrt(3)","tags":["物理"]}
 ---
 
 
