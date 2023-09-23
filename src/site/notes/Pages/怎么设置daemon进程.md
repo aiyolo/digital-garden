@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"tags":["linux"],"source":null,"created":"2022-10-29 16:00:04","updated":"2023-03-02 15:34:41","title":"怎么设置 daemon 进程","dg-publish":true,"permalink":"/Pages/怎么设置daemon进程/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/daemon/","title":"怎么设置 daemon 进程","tags":["linux"]}
 ---
 
 
