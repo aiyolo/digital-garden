@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"source":null,"created":"2022-04-09 22:34:37","updated":"2023-03-02 16:11:37","tags":["操作系统"],"title":"最小的 Hello World","dg-publish":true,"permalink":"/Pages/最小的 Hello World/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/hello-world/","title":"最小的 Hello World","tags":["操作系统"]}
 ---
 
 
