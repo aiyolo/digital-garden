@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["源码分析","cpp","stl"],"source":null,"uid":202210231606,"created":"2022-10-23 16:06:45","updated":"2023-03-03 11:28:40","title":"Deque 源码分析","dg-publish":true,"permalink":"/Pages/deque 源码分析/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/deque/","title":"Deque 源码分析","tags":["源码分析","cpp","stl"]}
 ---
 
 
