@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"source":null,"created":"2023-03-20 19:24:28","updated":"2023-03-20 19:37:09","uid":null,"title":"Whisper.cpp 编译使用","dg-publish":true,"permalink":"/Pages/Whisper.cpp 编译使用/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/whisper-cpp/","title":"Whisper.cpp 编译使用"}
 ---
 
 
