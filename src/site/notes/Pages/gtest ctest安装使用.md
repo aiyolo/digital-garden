@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"tags":["cpp,cmake"],"source":null,"created":"2022-12-08 17:44:04","updated":"2023-03-08 15:44:29","title":"Gtest Ctest 安装使用","dg-publish":true,"permalink":"/Pages/gtest ctest安装使用/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/gtest-ctest/","title":"Gtest Ctest 安装使用","tags":["cpp","cmake"]}
 ---
 
 
