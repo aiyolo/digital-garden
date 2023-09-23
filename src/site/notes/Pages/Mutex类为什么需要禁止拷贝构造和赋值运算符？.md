@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"created":"2022-07-04 15:03:09","updated":"2023-03-07 16:56:17","uid":202303071537,"tags":["cpp/syntax"],"source":"https://zhuanlan.zhihu.com/p/537368300","title":"Mutex 类为什么需要禁止拷贝构造和赋值运算符？","dg-publish":true,"permalink":"/Pages/Mutex类为什么需要禁止拷贝构造和赋值运算符？/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/mutex/","title":"Mutex 类为什么需要禁止拷贝构造和赋值运算符？","tags":["cpp/syntax"]}
 ---
 
 
