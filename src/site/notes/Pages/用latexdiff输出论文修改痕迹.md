@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["latex"],"source":null,"created":"2020-10-22 20:55:00","updated":"2023-03-07 16:23:35","uid":null,"title":"用 latexdiff 输出论文修改痕迹","dg-publish":true,"permalink":"/Pages/用latexdiff输出论文修改痕迹/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/latexdiff/","title":"用 latexdiff 输出论文修改痕迹","tags":["latex"]}
 ---
 
 
