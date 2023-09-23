@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"source":null,"created":"2021-09-03 11:39:00","updated":"2023-03-07 15:52:46","uid":null,"title":"自动填报 iamok 系统","dg-publish":true,"permalink":"/Pages/自动填报 iamok 系统/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/iamok/","title":"自动填报 iamok 系统"}
 ---
 
 
