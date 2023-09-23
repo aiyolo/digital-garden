@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["cmake"],"source":null,"created":"2023-03-08 16:15:17","updated":"2023-03-09 11:45:34","uid":null,"title":"vcpkg 安装使用","dg-publish":true,"permalink":"/Pages/vcpkg 安装使用/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/vcpkg/","title":"vcpkg 安装使用","tags":["cmake"]}
 ---
 
 
@@ -58,7 +58,7 @@ sqlite3 provides CMake targets:
 
 下面的 main.cpp 会输出 sqlite 的版本号
 
-```
+```cpp
 // main.cpp
 #include <sqlite3.h>
 #include <stdio.h>
@@ -98,6 +98,26 @@ target_link_libraries(main PRIVATE unofficial::sqlite3::sqlite3)
 
 首先安装 cmaketools 插件，然后设置 vcpkg 为 cmake 的工具链文件即可  
 ![image.png](https://cdn.jsdelivr.net/gh/aiyolo/imgrepo@main/test/202303091144314.png)
+
+## 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+安装
+```
+vcpkg install boost:x64-windows
+```
+卸载 [Remove multiple packages at once (wildcards) · Issue #2793 · microsoft/vcpkg (github.com)](https://github.com/microsoft/vcpkg/issues/2793)
+
+```
+vcpkg.exe remove boost-uninstall:x64-windows --recurse
+// 或者
+vcpkg.exe remove boost-vcpkg-helpers --recurse
+```
+
+</div></div>
 
 ## References
 
