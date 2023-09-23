@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"tags":["cpp"],"source":null,"created":"2022-08-19 16:03:20","updated":"2023-03-02 14:14:08","title":"为什么 Open 函数 Flag 和 Mode 参数混用不会出错","dg-publish":true,"permalink":"/Pages/为什么 open 函数 flag 和 mode 参数混用不会出错/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/open-flag-mode/","title":"为什么 Open 函数 Flag 和 Mode 参数混用不会出错","tags":["cpp"]}
 ---
 
 
