@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["linux"],"source":null,"created":"2020-07-10 21:49:00","updated":"2023-03-07 16:23:27","uid":null,"title":"Ubuntu20 .04 配置静态 Ip 地址","dg-publish":true,"permalink":"/Pages/ubuntu20.04配置静态ip地址/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/ubuntu20-04-ip/","title":"Ubuntu20 .04 配置静态 Ip 地址","tags":["linux"]}
 ---
 
 
