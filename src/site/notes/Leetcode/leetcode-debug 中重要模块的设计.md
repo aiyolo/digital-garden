@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["leetcode","cpp"],"source":null,"created":"2023-03-09 14:53:51","updated":"2023-03-20 19:40:19","uid":null,"title":"Leetcode-debug 中重要模块的设计","dg-publish":true,"permalink":"/Leetcode/leetcode-debug 中重要模块的设计/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/leetcode/leetcode-debug/","title":"Leetcode-debug 中重要模块的设计","tags":["leetcode","cpp"]}
 ---
 
 
@@ -56,8 +56,6 @@ struct MemFunction:public MemFunctionBase<T>{
     funcMap.emplace(s, pFuncBase);
     (*funcMap["shuffle"])(m_instance, (&tp)); // 转换成void指针
   }
-
-
 ```
 
 ## 出现过的 bug
