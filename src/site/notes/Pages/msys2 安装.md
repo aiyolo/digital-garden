@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"tags":["工具效率"],"source":null,"created":"2022-11-13 15:47:13","updated":"2023-03-08 15:56:06","title":"Msys2 安装","dg-publish":true,"permalink":"/Pages/msys2 安装/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/msys2/","title":"Msys2 安装","tags":["工具效率"]}
 ---
 
 
@@ -35,3 +35,17 @@ pacman -S mingw-w64-x86_64-cmake
 // 删除
 pacman -R package
 ```
+
+```
+pacman -S mingw-w64-ucrt-x86_64-toolchain
+pacman -S mingw-w64-ucrt-x86_64-clang
+pacman -S mingw-w64-ucrt-x86_64-clang-analyzer 
+pacman -S mingw-w64-ucrt-x86_64-clang-tools-extra
+pacman -S mingw-w64-ucrt-x86_64-lld
+pacman -S mingw-w64-ucrt-x86_64-llvm
+pacman -S mingw-w64-ucrt-x86_64-compiler-rt
+
+```
+
+
+
