@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"tags":["obsidian"],"source":null,"created":"2023-02-09 10:29:59","updated":"2023-03-02 12:23:08","title":"Obsidian 使用 Livesync 同步数据","dg-publish":true,"permalink":"/Pages/Obsidian 使用 Livesync 同步数据/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/obsidian-livesync/","title":"Obsidian 使用 Livesync 同步数据","tags":["obsidian"]}
 ---
 
 
