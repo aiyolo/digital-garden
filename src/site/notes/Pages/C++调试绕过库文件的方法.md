@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":null,"tags":["cpp"],"source":null,"uid":202212311810,"created":"2022-12-31 18:10:03","updated":"2023-03-02 12:27:18","dg-publish":true,"title":"C++ 调试绕过库文件的方法","permalink":"/Pages/C++调试绕过库文件的方法/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/c/","title":"C++ 调试绕过库文件的方法","tags":["cpp"]}
 ---
 
 
