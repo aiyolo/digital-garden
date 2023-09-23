@@ -1,5 +1,5 @@
 ---
-{"uid":null,"aliases":null,"tags":["面试/计算机网络"],"source":"source:https://xiaolincoding.com/os/8_network_system/zero_copy.html","created":"2022-08-12 17:53:43","updated":"2023-03-02 19:08:40","title":"零拷贝与 DMA","dg-publish":true,"permalink":"/Pages/零拷贝与DMA/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/pages/dma/","title":"零拷贝与 DMA","tags":["面试/计算机网络"]}
 ---
 
 
