@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"//neovim/","title":"Neovim 安装配置","tags":["工具效率"]}
+uid: null
+aliases: null
+tags:
+  - 工具效率
+publish: https://blog.csdn.net/aiyolo/article/details/128567132?spm=1001.2014.3001.5501
+source: null
+created: 2023-01-05 16:47:11
+updated: 2023-03-07 16:25:54
+title: Neovim 安装配置
+dg-publish: true
 ---
-
 
 # Neovim 安装配置
 
