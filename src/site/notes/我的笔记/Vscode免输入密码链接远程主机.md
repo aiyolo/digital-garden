@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"//vscode/","title":"Vscode 免输入密码链接远程主机","tags":["note"]}
+aliases: null
+tags: note 
+source: null
+created: 2022-08-19 16:12:21
+updated: 2023-03-02 14:15:11
+uid: null
+title: Vscode 免输入密码链接远程主机
+dg-publish: true
 ---
-
 
 # Vscode 免输入密码链接远程主机
 
