@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"//zsh/","title":"zsh 配置","tags":["工具效率"]}
+uid: null
+aliases: null
+tags:
+  - 工具效率
+source: null
+created: 2023-01-22 13:33:08
+updated: 2023-04-18 15:48:11
+title: zsh 配置
+dg-publish: true
 ---
-
 
 # zsh 配置
 
